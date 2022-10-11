@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "content/2-Cloud-Native-Architecture/2_2.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/2-Cloud-Native-Architecture/2_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/2-Cloud-Native-Architecture/2_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/2-Cloud-Native-Architecture/2_2.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "f9d499a7c7dd6186",
   "lastOpenFiles": [
-    "content/4-Kubernetes-Fundamentals/README.md",
+    "content/2-Cloud-Native-Architecture/2_1.md",
+    "content/2-Cloud-Native-Architecture/README.md",
     "README.md",
+    "content/4-Kubernetes-Fundamentals/README.md",
     "content/3-Container-Orchestration/3_1.md",
     "content/3-Container-Orchestration/3_3.md",
     "content/3-Container-Orchestration/3_2.md",
     "content/2-Cloud-Native-Architecture/2_8.md",
-    "content/2-Cloud-Native-Architecture/README.md",
     "content/4-Kubernetes-Fundamentals/4_4.md",
-    "content/4-Kubernetes-Fundamentals/4_3.md",
-    "content/4-Kubernetes-Fundamentals/4_2.md"
+    "content/4-Kubernetes-Fundamentals/4_3.md"
   ]
 }
