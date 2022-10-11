@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c228146bbf55fcc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d499a7c7dd6186",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a3c38cf5e2c7994",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e376573756c15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb19a72d15a44b1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4324e5757dc645c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69d4c456ac04bcc7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70848d7ae545dc6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dac420cc777144a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cc8e764c7cf5b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3a7458986e7fde6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "639550ad964bb965",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f33bdc7209230298",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9d499a7c7dd6186",
+  "lastOpenFiles": [
+    "content/4-Kubernetes-Fundamentals/README.md",
+    "README.md",
+    "content/3-Container-Orchestration/3_1.md",
+    "content/3-Container-Orchestration/3_3.md",
+    "content/3-Container-Orchestration/3_2.md",
+    "content/2-Cloud-Native-Architecture/2_8.md",
+    "content/2-Cloud-Native-Architecture/README.md",
+    "content/4-Kubernetes-Fundamentals/4_4.md",
+    "content/4-Kubernetes-Fundamentals/4_3.md",
+    "content/4-Kubernetes-Fundamentals/4_2.md"
+  ]
+}
