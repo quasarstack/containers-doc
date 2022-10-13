@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/5-Working-with-Kubernetes/5_3.md",
+            "file": "directory_structure.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/5-Working-with-Kubernetes/5_3.md",
+                "file": "directory_structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/5-Working-with-Kubernetes/5_3.md",
+                "file": "directory_structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/5-Working-with-Kubernetes/5_3.md"
+                "file": "directory_structure.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "f9d499a7c7dd6186",
   "lastOpenFiles": [
-    "content/5-Working-with-Kubernetes/README.md",
+    "README.md",
+    "directory_structure.md",
+    "content/2-Cloud-Native-Architecture/README.md",
     "content/5-Working-with-Kubernetes/5_3.md",
+    "content/5-Working-with-Kubernetes/README.md",
     "content/5-Working-with-Kubernetes/5_2.md",
     "content/5-Working-with-Kubernetes/5_1.md",
     "content/4-Kubernetes-Fundamentals/4_1.md",
     "content/4-Kubernetes-Fundamentals/README.md",
-    "README.md",
-    "content/4-Kubernetes-Fundamentals/4_6.md",
-    "content/4-Kubernetes-Fundamentals/4_8.md",
-    "content/4-Kubernetes-Fundamentals/4_7.md"
+    "content/4-Kubernetes-Fundamentals/4_6.md"
   ]
 }
