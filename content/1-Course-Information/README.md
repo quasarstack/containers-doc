@@ -1,3 +1,6 @@
+---
+title: Course Introduction
+---
 # 01 Course Introduction
 
 If you’re new to the world of modern application development and deployment, this course will give you an overview of cloud native technologies and how container orchestration systems like Kubernetes can help to implement them.
@@ -6,7 +9,7 @@ Kubernetes is a very popular open source platform for managing containerized wor
 
 No matter if you build and operate clusters, use them as a deployment target for your software, or as the centerpiece for your transition to modern software architecture, this course will give you a basic understanding of what the challenges and chances of Kubernetes are. At the end of the course, you should be able to navigate the world of Kubernetes and some of its ecosystems, like monitoring and application delivery.
 
-# Course Learning Objectives
+**Course Learning Objectives**
 
 By the end of this course, you will learn the following:
 

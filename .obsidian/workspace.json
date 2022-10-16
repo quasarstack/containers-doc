@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9d499a7c7dd6186",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directory_structure.md",
-            "mode": "source",
-            "source": false
+        "id": "106ea2d28509fcf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d499a7c7dd6186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/3-Container-Orchestration/3_8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory_structure.md",
+                "file": "content/3-Container-Orchestration/3_8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory_structure.md",
+                "file": "content/3-Container-Orchestration/3_8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory_structure.md"
+                "file": "content/3-Container-Orchestration/3_8.md"
               }
             }
           }
@@ -128,17 +136,20 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "f9d499a7c7dd6186",
   "lastOpenFiles": [
+    "content/3-Container-Orchestration/3_4.md",
+    "content/4-Kubernetes-Fundamentals/4_6.md",
+    "content/4-Kubernetes-Fundamentals/4_3.md",
+    "content/5-Working-with-Kubernetes/5_1.md",
+    "README.md",
+    "directory_structure.md",
     "content/5-Working-with-Kubernetes/README.md",
     "content/5-Working-with-Kubernetes/5_3.md",
     "content/5-Working-with-Kubernetes/5_2.md",
-    "content/5-Working-with-Kubernetes/5_1.md",
-    "content/4-Kubernetes-Fundamentals/4_8.md",
-    "content/4-Kubernetes-Fundamentals/4_7.md",
-    "content/4-Kubernetes-Fundamentals/4_6.md",
-    "content/4-Kubernetes-Fundamentals/4_5.md",
-    "content/4-Kubernetes-Fundamentals/4_4.md",
-    "content/4-Kubernetes-Fundamentals/4_3.md"
+    "content/4-Kubernetes-Fundamentals/4_8.md"
   ]
 }
